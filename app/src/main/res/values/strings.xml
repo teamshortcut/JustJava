@@ -1,0 +1,16 @@
+
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="drink_of_the_day_xml">Drink of the day: </string>
+    <string name="name_hint">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="marshmallows">Marshmallows</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="place_order...">Place your order...</string>
+    <string name ="review_order">Review Order</string>
+    <string name="place_order">Place Order</string>
+
+</resources>
